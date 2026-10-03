@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="hblLfBoV2Ee1UElwbufb">
-    <mxGraphModel dx="8883" dy="5950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5045" dy="4095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -464,10 +464,10 @@
           <mxGeometry height="60" width="120" x="-2685" y="-1340" as="geometry" />
         </mxCell>
         <mxCell id="uiNzilWOs_XLh1p1vEy9-130" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="category_id" vertex="1">
-          <mxGeometry height="60" width="115" x="-2780" y="-1510" as="geometry" />
+          <mxGeometry height="60" width="115" x="-2820" y="-1500" as="geometry" />
         </mxCell>
         <mxCell id="uiNzilWOs_XLh1p1vEy9-131" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="name" vertex="1">
-          <mxGeometry height="60" width="115" x="-2580" y="-1520" as="geometry" />
+          <mxGeometry height="60" width="115" x="-2560" y="-1485" as="geometry" />
         </mxCell>
         <mxCell id="uiNzilWOs_XLh1p1vEy9-132" edge="1" parent="1" source="uiNzilWOs_XLh1p1vEy9-53" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.501;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.998;exitY=0.464;exitDx=0;exitDy=0;exitPerimeter=0;" target="uiNzilWOs_XLh1p1vEy9-134" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -922,6 +922,14 @@
           <mxGeometry relative="1" x="0.5599" y="4" as="geometry">
             <mxPoint x="-26" y="12" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wxQSg782JvotGf1bm2CX-1" edge="1" parent="1" source="uiNzilWOs_XLh1p1vEy9-129" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wxQSg782JvotGf1bm2CX-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2520" y="-1405" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wxQSg782JvotGf1bm2CX-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;span&gt;&lt;/span&gt;&lt;code dir=&quot;ltr&quot;&gt;parent_category_id&lt;/code&gt;&lt;span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="165" x="-2715" y="-1530" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
